@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-search{
+    height:fit-content ;
+    width: 600px;
+    height: 30px;
+    margin-left: 5rem;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-left: 1rem;
+    font-size: large;
+    border: 0.5px solid black;
+}
+.search-icon{
+    margin-right: 3rem;
+    border: 0.5px solid black;
+    height: 24px;
+    width: 80px;
+    padding-left: 20px;
+    padding-top: 8px;
+    border-left: none;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgb(221, 221, 230);
+}
+.mic-icon{
+    margin-right: 2rem;
+    width: 50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:rgb(221, 221, 230);
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 20px;
+    padding-bottom: 2px;
+    
+
+}
+.nav-icon{
+    margin-left: 2rem;
+    font-size: 25px;
+}
+
+.nav-logo{
+    background-image: url(png-transparent-youtube-logo-youtube-logo-computer-icons-subscribe-angle-rectangle-airplane-thumbnail.png);
+    width: 50px;
+    height: 27px;
+    background-size: cover;
+    margin-left: 1rem;
+}
+.create{
+    margin-right: 4rem;
+}
+.bell-icon{
+    margin-right: 5rem;
+    font-size: 25px;
+}
+.profile{
+    background-image: url(Polish_20240518_140023925.jpg);
+    background-size: cover;
+    width: 60px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 3rem;
+}
+.text1{
+    font-size: larger;
+}
+.text2{
+    font-size: 0.6rem;
+    padding-bottom: 1rem;
+}
+.sam-icon{
+    font-size: 22px;
+    border-right: none;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color:rgb(221, 221, 230) ;
+
+}
+.create{
+    font-size: 22px;
+    border-left: none;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(221, 221, 230);
+}
+.nav-bar2{
+    width: 80px;
+    background-color: white;
+    height: 300px;
+}
